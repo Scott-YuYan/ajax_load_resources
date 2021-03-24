@@ -1,0 +1,12 @@
+[
+  {
+    "name": "zhangsan",
+    "age": "18",
+    "score": "80"
+  },
+  {
+    "name": "lisi",
+    "age": "19",
+    "score": "81"
+  }
+]
